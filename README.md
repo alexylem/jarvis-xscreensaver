@@ -10,8 +10,16 @@ For multi-language plugin:
 - optionally write the Description / Usage sections in several languages
 -->
 ## Description
+
+*English*
+
 This plugin exits Raspbian Pixel's default screen saver (xscreensaver) when Jarvis enters in conversation mode (hotword is heard).
 Pretty useful for those showing Jarvis conversation on screen or using Jarvis-Face plugin.
+
+*Français*
+
+Ce plugin quit l'économiseur par défaut de Raspbian Pixel (xscreensaver) quand Jarvis passe en mode conversation (mot clé entendu).
+Pratique pour afficher la conversation avec jarvis à l'écran ou pour l'utilisation du plugin Jarvis-Face.
 
 ## Demo
 [Demo video](https://youtu.be/bc7NcxszPZU)
