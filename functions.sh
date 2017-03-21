@@ -6,3 +6,4 @@
 # pg for PluGin
 # XX is a short code for your plugin, ex: ww for Weather Wunderground
 # You can use translations provided in the language folders functions.sh
+export DISPLAY="$pg_xss_display_num"
